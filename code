@@ -1,0 +1,10 @@
+const student = { name : pavan
+                  branch : cse(ds)
+                 yr : 20
+                }
+console.log(student)
+console.log(typeof (student))
+let a = 130
+let b = 3
+console.log(a+b)
+console.log(typeof (a+b))
